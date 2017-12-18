@@ -12,10 +12,10 @@ Further EFA Projects to use the station IDs would be:
 
 Screenshots:
 -----------
-Over 16000 stations in Europe:
+Over 16000 stations in Europe (Map © OpenStreetMap contributors):
 
 ![Europe overview](01.png)
 
-Station Name and ID:
+Station Name and ID (Map © OpenStreetMap contributors):
 
 ![Munich main station](02.png)
